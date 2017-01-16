@@ -1,0 +1,32 @@
+{
+	"sku": [{
+		"skuId": "111111111111111",
+		"priceTypes": [{
+			"priceId": "",
+			"priceType": "R",
+			"effort": "792",
+			"Price": "16.00"
+		},
+		{
+			"priceId": "",
+			"priceType": "S",
+			"effort": "709",
+			"Price": "16.00"
+		}]
+	},
+	{
+		"skuId": "111112111111111",
+		"priceTypes": [{
+			"priceId": "",
+			"priceType": "R",
+			"effort": "792",
+			"Price": "20.00"
+		},
+		{
+			"priceId": "",
+			"priceType": "S",
+			"effort": "709",
+			"Price": "37.00"
+		}]
+	}]
+}

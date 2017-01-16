@@ -1,0 +1,33 @@
+{
+  "productId" : "12950152",
+  "styColorList" : [{
+    "styleColor" : "0675_175",
+    "priceTypes": [{
+      "priceType": "R",
+      "effort": "286",
+      "price": "16.00",
+      "startDate" : "2015-01-14-00:00",
+      "endDate" : "9999-03-20-00:00",
+      "countryCode" : "CA"
+    },
+      {
+        "priceType": "S",
+        "effort": "286",
+        "price": "15.00",
+        "startDate" : "2015-01-14-00:00",
+        "endDate" : "9999-03-20-00:00",
+        "countryCode" : "CA"
+      }]
+  },
+    {
+      "styleColor" : "0676_175",
+      "priceTypes": [{
+        "priceType": "R",
+        "effort": "286",
+        "price": "12.00",
+        "startDate" : "2015-01-14-00:00",
+        "endDate" : "9999-03-20-00:00",
+        "countryCode" : "CA"
+      }]
+    }]
+}
